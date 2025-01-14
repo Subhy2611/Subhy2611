@@ -4,7 +4,7 @@
 
 <hr>
     <div align="center">
-        <img src="/Background Page.png" width="600px" height="300px" alt="Code">
+        <img src="/BackgroundPage.png" width="600px" height="300px" alt="Code">
     </div>
 <hr>
 
