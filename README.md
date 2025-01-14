@@ -54,8 +54,6 @@
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
 
-![snake gif](https://github.com/Subhy2611/Subhy2611/blob/output/github-contribution-grid-snake.gif)
-
 <br>
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Subhy2611/Subhy2611/output/github-contribution-grid-snake.svg" />
