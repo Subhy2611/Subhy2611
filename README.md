@@ -4,7 +4,7 @@
 
 <hr>
     <div align="center">
-        <img src="/code.gif" width="600px" height="300px" alt="Code">
+        <img src="/Subham Ghosh.png" width="600px" height="300px" alt="Code">
     </div>
 <hr>
 
