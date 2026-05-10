@@ -8,21 +8,21 @@
     </div>
 <hr>
 
-<h2 align="center">🧑‍🦭 About Me 🧑‍🦭</h2>
+<h2 align="center">About Me</h2>
 <br>
 <div align="center">
     <p align="right"> <img src="https://komarev.com/ghpvc/?username=Subhy2611&label=Profile%20views&color=0e75b6&style=flat" alt="Subhy2611" /> </p>
     <ul type="none">
-        <li>😎 I'm a third year student pursuing <b>Bachelor of Engineering</b> in <b>Information Technology</b>.</li>
-        <li>🌱 I love to apply my technical skills to develop innovative solutions for real-world problems.</li>
-        <li>📧 Mail me at <i><b>isubhamg26@gmail.com</b></i></li>
+        <li> I'm a final year student pursuing <b>Bachelor of Engineering</b> in <b>Information Technology</b>.</li>
+        <li> I love to apply my technical skills to develop innovative solutions for real-world problems.</li>
+        <li> If you wish to connect, here's my mail <i><b>isubhamg26@gmail.com</b></i></li>
     </ul>
 </div>
 <br>
 
 <hr>
 
-<h2 align="center">📧 Connect With Me 📧</h2>
+<h2 align="center">Connect With Me</h2>
 <br>
 <div align="center">
     <a href="https://www.hackerrank.com/profile/ryan_79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Subhy2611" height="30" width="40" /></a>
@@ -52,7 +52,7 @@
 
 <hr>
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
+<h2 align="center">My Contributions</h2>
 
 <br>
 <div align="center">
@@ -64,7 +64,7 @@
 
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">Stats</h2>
 
 <br>
 <div align=center>
