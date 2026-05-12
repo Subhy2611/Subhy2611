@@ -1,78 +1,142 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Subham+Ghosh.;" />
-</h1>
-
-<hr>
-    <div align="center">
-        <img src="/BackgroundPage.png" width="600px" height="300px" alt="Code">
-    </div>
-<hr>
-
-<h2 align="center">About Me</h2>
-<br>
 <div align="center">
-    <p align="right"> <img src="https://komarev.com/ghpvc/?username=Subhy2611&label=Profile%20views&color=0e75b6&style=flat" alt="Subhy2611" /> </p>
-    <ul type="none">
-        <li> I'm a final year student pursuing <b>Bachelor of Engineering</b> in <b>Information Technology</b>.</li>
-        <li> I love to apply my technical skills to develop innovative solutions for real-world problems.</li>
-        <li> If you wish to connect, here's my mail <i><b>isubhamg26@gmail.com</b></i></li>
-    </ul>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Subham%20Ghosh&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
+
+<h3>Full Stack Developer • Backend • Artificial Intelligence • Machine Learning</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=If+you+want+to+connect;Hit+me+up;Let's+Turn+Our+Ideas+into+Production+Ready+Projects" />
+
+<p align="center">
+  <a href="mailto:isubhamg26@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/subham-ghosh-6a6a55272/">
+    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/user2362xQ/">
+    <img src="https://img.shields.io/badge/LeetCode-181717?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Subhy2611">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 </div>
-<br>
 
-<hr>
+---
 
-<h2 align="center">Connect With Me</h2>
-<br>
+## About
+
+Final year Information Technology undergraduate focused on backend engineering, full stack systems, machine learning and software architecture.
+
+I enjoy building scalable applications, solving engineering problems and working on systems that combine practical utility with clean implementation.
+
+Current areas of interest:
+- Backend Development
+- APIs & System Design
+- Machine Learning
+- Security & Privacy Systems
+- Distributed Systems
+
+---
+
+## Tech Stack
+
 <div align="center">
-    <a href="https://www.hackerrank.com/profile/ryan_79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Subhy2611" height="30" width="40" /></a>
-    <a href="https://www.codechef.com/users/se7en_code" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo-mobile-1.svg" alt="Subhy2611" height="30" width="40" /></a>
-    <a href="https://leetcode.com/u/user2362xQ/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Subhy2611" height="30" width="40" /></a>
-    <a href="https://www.geeksforgeeks.org/user/yoursubhy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Subhy2611" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/subham-ghosh-6a6a55272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Subhy2611" height="30" width="40" /></a>
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript" />
+
+---
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+---
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+
+---
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,npm" />
+
 </div>
-<br>
 
-<hr>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,react" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=git,github,linux,postman" />
-    <br>
-</div>
-<br>
-<br>
-<br>
+---
 
-<hr>
+## Projects
 
-<h2 align="center">My Contributions</h2>
+| Project | Description |
+|---|---|
+| Android Privacy Leakage Detection | Static taint analysis based Android privacy monitoring system |
+| Personal Expense Tracker | Full stack finance tracking application |
+| Restaurant Booking System | Reservation platform with backend integration and mail automation |
+| Brain Tumor Detection | CNN based medical image classification model |
+| Customer Churn Prediction | ML pipeline for churn analysis and prediction |
 
-<br>
+---
+
+## GitHub Statistics
+
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Subhy2611/Subhy2611/output/github-contribution-grid-snake.svg" />
+
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Subhy2611&theme=tokyonight&hide_border=true"/>
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=Subhy2611&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<br>
+
+<img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhy2611&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
-<br>
 
-<hr>
+---
 
-<hr>
+## Contribution Graph
 
-<h2 align="center">Stats</h2>
+<div align="center">
 
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=Subhy2611&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Subhy2611&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhy2611&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img src="https://raw.githubusercontent.com/Subhy2611/Subhy2611/output/github-contribution-grid-snake-dark.svg" />
+
 </div>
-<br>
 
-<hr>
+---
+
+## Coding Profiles
+
+<div align="center">
+
+<a href="https://www.hackerrank.com/profile/ryan_79">
+  <img src="https://img.shields.io/badge/HackerRank-181717?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/se7en_code">
+  <img src="https://img.shields.io/badge/CodeChef-181717?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/user2362xQ/">
+  <img src="https://img.shields.io/badge/LeetCode-181717?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/yoursubhy/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-181717?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Focused on engineering reliable systems, writing maintainable code and continuously learning.</sub>
+
+</div>
